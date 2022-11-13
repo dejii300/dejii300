@@ -1,8 +1,6 @@
 [![MasterHead](https://blog.sagipl.com/wp-content/uploads/2017/09/mobile-application.gif)
 <h1 align="center">Hi 👋, I'm uzoma precious</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" scr="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejii300&label=Profile%20views&color=0e75b6&style=flat" alt="dejii300" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
