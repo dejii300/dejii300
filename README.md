@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dejii300/dejii300.github.io](https://github.com/dejii300/dejii300.github.io)
-- 🌱 I’m currently learning **more tools, freamworks and languages**
+- 🌱 I’m currently learning **more tools, frameworks and languages**
 
 - 📫 How to reach me **uzomachimdindu300@gmail.com**
 
